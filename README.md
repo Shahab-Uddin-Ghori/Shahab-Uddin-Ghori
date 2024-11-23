@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="shahab-uddin-ghori" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori" alt="shahab-uddin-ghori" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **React Native App**
 
 - 🌱 I’m currently learning **Express Js, Node Js**
 
 - 💬 Ask me about **Javascript, React Js, Next Js, React Native**
 
-- 📫 How to reach me **shahabnisar918@gmail.com**
+- 📫 How to reach me: **shahabnisar918@gmail.com**
 
-- ⚡ Fun fact **I have a good sense of humour**
+- ⚡ Fun fact: **I have a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
