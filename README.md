@@ -1,33 +1,44 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Shahab Uddin</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+# Hi 👋, I'm Shahab Uddin
+### A passionate Full Stack Developer from Pakistan
 
-<!-- Profile Views Badge -->
+---
+
+## Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="shahab-uddin-ghori" />
 </p>
 
-<!-- Trophy Section -->
+---
+
+## Trophy Achievements
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori" alt="shahab-uddin-ghori" />
   </a>
 </p>
 
-<!-- Social Media Links -->
+---
+
+## Social Media Links
 <p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
 </p>
 
-<!-- About Me Section -->
+---
+
+## About Me
 - 🔭 I’m currently working on **React Native App**
 - 🌱 I’m currently learning **Express Js, Node Js**
 - 💬 Ask me about **JavaScript, React Js, Next Js, React Native**
-- 📫 How to reach me **shahabnisar918@gmail.com**
-- ⚡ Fun fact: **I have a good sense of humour**
+- 📫 Reach me at: **shahabnisar918@gmail.com**
+- ⚡ Fun fact: **I have a good sense of humor**
 
-<!-- Connect with Me Section -->
-<h3 align="left">Connect with me:</h3>
+---
+
+## Connect with Me
+### Let's connect:
 <p align="left">
   <a href="https://linkedin.com/in/shahabuddinghori/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahabuddinghori" height="30" width="40" />
@@ -43,8 +54,9 @@
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## Languages and Tools
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -105,6 +117,7 @@
   </a>
 </p>
 
+---
 
-<!-- Streak Stats Section -->
+## GitHub Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahab-uddin-ghori&" alt="shahab-uddin-ghori" /></p>
