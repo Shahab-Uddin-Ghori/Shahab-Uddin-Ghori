@@ -15,12 +15,13 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori" 
+      src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=6&row=1" 
       alt="shahab-uddin-ghori" 
-      style="margin: 10px; width: 300px; height: auto;" 
+      style="width: 100%; max-width: 900px;" 
     />
   </a>
 </p>
+
 
 
 <!-- Social Media Links -->
