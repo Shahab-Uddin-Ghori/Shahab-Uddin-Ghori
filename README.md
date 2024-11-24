@@ -3,12 +3,15 @@
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <!-- Profile Views Badge -->
+<!-- Profile Views Badge -->
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" 
     alt="shahab-uddin-ghori" 
+    style="margin: 10px; width: 200px; height: auto;" 
   />
 </p>
+
 
 
 <!-- Trophy Section -->
