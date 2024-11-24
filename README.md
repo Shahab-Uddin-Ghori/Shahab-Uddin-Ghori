@@ -24,7 +24,7 @@
 ## 🏫 Expertise
 
 - 👨‍🏫 Teaching **Computer Science** at a school for 7 years
-- 🎓 Assistant Instructor at **Saylani Mass IT Training Program** at **SMIT School** (August 2024 - Present)
+- 🎓 Assistant Instructor at **Saylani Mass IT Training Program(SMIT) (August 2024 - Present)
 
 ## 🤝 Connect with me
 
