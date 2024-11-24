@@ -12,7 +12,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars"
          alt="shahab-uddin-ghori"
-         style="width: 1500px; height: auto; display: block;" />
+         style="width: 2400px; height: auto; display: block;" />
   </a>
 </div>
 
