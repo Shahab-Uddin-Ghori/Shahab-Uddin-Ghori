@@ -17,7 +17,7 @@
     <img 
       src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=6&row=1" 
       alt="shahab-uddin-ghori" 
-      style="width: 100%; max-width: 900px;" 
+      style="width: 100%; max-width: 1200px;" 
     />
   </a>
 </p>
