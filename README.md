@@ -4,7 +4,7 @@
 </div>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="width: 150px; height: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="width: 200px; height: auto;" />
 </p>
 
 
