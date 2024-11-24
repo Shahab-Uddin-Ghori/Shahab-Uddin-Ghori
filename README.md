@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <h1>Hi there, I'm Shahab Uddin 👋</h1>
   <h3>A passionate Full Stack Developer from Pakistan</h3>
 </div>
@@ -64,9 +64,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en" alt="shahab-uddin-ghori" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahab-uddin-ghori" />
