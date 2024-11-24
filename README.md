@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 2.5rem; font-weight: 600;">Hi there, I'm Shahab Uddin 👋</h1>
-  <h3>A passionate Full Stack Developer from </h3>
+  <h3>An enthusiastic Full Stack and React Native Developer skilled in creating dynamic, scalable applications for both web and mobile platforms </h3>
 </div>
 
 <p>
