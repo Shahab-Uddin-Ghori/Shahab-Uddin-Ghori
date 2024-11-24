@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center" style="font-size: 2.5rem;">Hi 👋, I'm Shahab Uddin</h1>
+<h1 align="center" style="font-size: 4rem;">Hi 👋, I'm Shahab Uddin</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <!-- Profile Views Badge -->
