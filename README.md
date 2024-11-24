@@ -4,17 +4,18 @@
 </div>
 
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <div align="center" style="width: 100%; display: flex; justify-content: center; padding: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=juicyfresh&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars" 
-         alt="shahab-uddin-ghori" 
-         style="width: 85%; max-width: 1000px; height: auto; display: block;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars"
+         alt="shahab-uddin-ghori"
+         style="width: 1200px; height: auto; display: block;" />
   </a>
 </div>
+
 
 
 
