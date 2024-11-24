@@ -15,9 +15,14 @@
 <!-- Trophy Section -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori" alt="shahab-uddin-ghori" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori" 
+      alt="shahab-uddin-ghori" 
+      style="margin: 10px; width: 300px; height: auto;" 
+    />
   </a>
 </p>
+
 
 <!-- Social Media Links -->
 <p align="left">
