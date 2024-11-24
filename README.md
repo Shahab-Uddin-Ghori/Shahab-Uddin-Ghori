@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=flat&bg-color=ffffff" alt="shahab-uddin-ghori" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=flat" alt="shahab-uddin-ghori" width="100%" />
   </a>
 </p>
 
@@ -65,6 +65,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahab-uddin-ghori" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahab-uddin-ghori" width="70%" />
 </p>
 
