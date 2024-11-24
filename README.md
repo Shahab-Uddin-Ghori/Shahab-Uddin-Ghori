@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <!-- Profile Views Badge -->
-<!-- Profile Views Badge -->
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" 
@@ -27,17 +26,14 @@
 
 
 
-<!-- Social Media Links -->
-<p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-</p>
+
 
 <!-- About Me Section -->
 - 🔭 I’m currently working on **React Native App**
 - 🌱 I’m currently learning **Express Js, Node Js**
 - 💬 Ask me about **JavaScript, React Js, Next Js, React Native**
 - 📫 How to reach me **shahabnisar918@gmail.com**
-- ⚡ Fun fact: **I have a good sense of humour**
+- ⚡ Fun fact: **I have a good sense of humor**
 
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
