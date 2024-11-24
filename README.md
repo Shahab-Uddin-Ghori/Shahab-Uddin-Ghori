@@ -52,7 +52,7 @@
 
 ## 🛠️ Languages and Tools
 
-<div style="background-color: #ffffff; padding: 20px; border-radius: 8px;">
+<div style="background-color: #ffffff; padding: 20px; border-radius: 8px; border: 2px solid #e1e4e8;">
   <p align="center" style="padding: 10px 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65" style="margin: 10px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65" style="margin: 10px;"/>
@@ -75,6 +75,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="65" height="65" style="margin: 10px;"/>
   </p>
 </div>
+
 
 
 ## 📊 GitHub Stats
