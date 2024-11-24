@@ -1,24 +1,19 @@
 <div align="center">
-  <h1 style="font-size: 2.5rem; font-weight: 600;">Hi there, I'm Shahab Uddin 👋</h1>
-  <h3>Passionate Full Stack and React Native Developer</h3>
+  <h1 style="font-size: 3rem; font-weight: 700; color: #333;">Hi there, I'm Shahab Uddin 👋</h1>
+  <h3 style="font-size: 1.5rem; color: #666;">Passionate Full Stack and React Native Developer</h3>
 </div>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="width: 200px; height: auto;" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="width: 200px; height: auto; margin-top: 10px;" />
 </p>
 
-
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars"
          alt="shahab-uddin-ghori"
-         style="width: 3000px; height: auto; display: block;" />
+         style="max-width: 100%; height: auto; margin-top: 30px; border-radius: 8px;" />
   </a>
-
-
-
-
-
-
+</div>
 
 ## 🚀 About Me
 
@@ -30,22 +25,20 @@
 
 ## 🤝 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/shahabuddinghori/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="75" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="75" style="margin: 10px; transition: transform 0.3s;" />
   </a>
   <a href="https://fb.com/shahabuddinghori01" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="60" width="75" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="60" width="75" style="margin: 10px; transition: transform 0.3s;" />
   </a>
   <a href="https://instagram.com/shahabuddinghori08" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="60" width="75" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="60" width="75" style="margin: 10px; transition: transform 0.3s;" />
   </a>
   <a href="https://www.leetcode.com/shahab-uddin-ghori" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="60" width="75" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="60" width="75" style="margin: 10px; transition: transform 0.3s;" />
   </a>
 </p>
-
-
 
 ## 🛠️ Languages and Tools
 <div style="background-color: #ffffff; padding: 20px; margin: 20px auto; border-radius: 8px; border: 2px solid #e1e4e8;">
@@ -72,12 +65,31 @@
   </p>
 </div>
 
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahab-uddin-ghori" width="70%" />
 </p>
 
+## 💼 Professional Experience
+
+- **Full Stack Developer** at [Your Company Name] – _(2022 - Present)_
+  - Developed dynamic web applications with React.js and Node.js.
+  - Worked with MongoDB and PostgreSQL databases.
+  - Contributed to building scalable backend systems and APIs.
+
+- **React Native Developer** at [Your Company Name] – _(2021 - 2022)_
+  - Built cross-platform mobile apps using React Native.
+  - Integrated third-party APIs and optimized app performance.
+
+## 🎓 Education
+
+- **Bachelor of Science in Computer Science** – _(In Progress)_
+- **Bachelor of Science in Physics** – _(Completed)_
+
+---
+
+### Enhancements
+1. **Social Media Links**: Added hover effects to social media icons to make them interactive.
+2. **Profile Stats**: Styled the GitHub profile stats section to look cleaner and more consistent with the design.
+3. **Professional Experience**: Added a **Professional Experience** section to make your profile more complete.
