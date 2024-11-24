@@ -1,7 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Shahab Uddin 👋</h1>
-  <h3>A passionate Full Stack Developer from Pakistan</h3>
+  <h1 style="font-size: 2.5rem; font-weight: 600;">Hi there, I'm Shahab Uddin 👋</h1>
+  <h3>A passionate Full Stack Developer from </h3>
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,9 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=flat" alt="shahab-uddin-ghori" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=juicyfresh&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars" alt="shahab-uddin-ghori" width="100%" />
   </a>
 </p>
+
 
 ## 🚀 About Me
 
