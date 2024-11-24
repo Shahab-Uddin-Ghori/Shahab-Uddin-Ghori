@@ -3,10 +3,10 @@
   <h3>A passionate Full Stack Developer from </h3>
 </div>
 
-
-<p >
-  <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shahab-uddin-ghori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="width: 150px; height: auto;" />
 </p>
+
 
 <div align="center" style="width: 100%; display: flex; justify-content: center; padding: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
