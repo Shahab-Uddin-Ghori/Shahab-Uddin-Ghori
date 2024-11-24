@@ -59,7 +59,9 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="65" height="65" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="65" height="65" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65" style="margin: 10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark-white.svg" alt="express" width="65" height="65" style="margin: 10px;" />
+<div style="background-color: #333; display: inline-block; padding: 10px; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark-white.svg" alt="express" width="65" height="65" />
+</div>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65" style="margin: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65" style="margin: 10px;"/>
