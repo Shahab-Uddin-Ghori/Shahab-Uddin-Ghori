@@ -31,15 +31,11 @@
   </tr>
 </table>
 
-
-
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars"
        alt="shahab-uddin-ghori"
        style="width: 3000px; height: auto; display: block;" />
 </a>
-
 
 ## 🏫 Expertise
 
@@ -91,5 +87,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahab-uddin-ghori" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en&layout=compact" alt="shahab-uddin-ghori" width="500" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahab-uddin-ghori&show_icons=true&theme=dark&locale=en" alt="shahab-uddin-ghori" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars" alt="GitHub trophies" />
 </p>
