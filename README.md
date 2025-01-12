@@ -33,10 +33,10 @@
 
 <!-- Badge Section (Displayed only once below) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=10&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars"
+  <img src="https://github-profile-trophy.vercel.app/?username=shahab-uddin-ghori&margin-w=15&margin-h=15&column=7&theme=dark&no-frame=true&title=MultiPullRequest,Commits,Repositories,Stars"
        alt="shahab-uddin-ghori"
-       style="width: 4000px; height: auto; display: block;" />
-</a>
+       style="width: 3000px; height: auto; display: block;" />
+</a> 
 
 
 ## 🏫 Expertise
